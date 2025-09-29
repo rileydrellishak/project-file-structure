@@ -1,4 +1,4 @@
-import subtraction
+from src import subtraction
 
 def test_subtraction():
     # Assert
