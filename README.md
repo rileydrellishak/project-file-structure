@@ -1,6 +1,5 @@
 # Homemade Math Operations
 ## An exercise in project file structure
-:heavy_plus_sign:
 ![operations](https://www.basic-mathematics.com/images/basic-operations.png)
 Modules in the src directory contain functions that calculate the sum, different, product, and quotient of two numbers. 
 
